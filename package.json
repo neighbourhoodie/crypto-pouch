@@ -28,7 +28,7 @@
     "native-crypto": "^1.5.2",
     "pouchdb-promise": "^6.1.0",
     "randombytes": "^2.0.3",
-    "transform-pouch": "^1.1.0",
+    "transform-pouch": "https://github.com/neighbourhoodie/transform-pouch.git#incoming_handler_issue",
     "uuid": "^3.0.1"
   },
   "devDependencies": {
